@@ -22,7 +22,7 @@ Botchat is a full Client-Server architecture using pure Python socket libraries 
 - For the Whole `"Part Two"` folder [click here](/PartTwo)
 - For the "TCP/IP Client-Server Chat Packet Capture" [click here](/PartTwo/Wireshark_LOGs.md) 
 
---> **In case you want to skip to the LAN setup** [click here](https://github.com/Alon-V/Bot-Chat?tab=readme-ov-file#how-to-run-chatbot-on-local-lan-multiple-computers-)
+--> **In case you want to skip to the LAN setup** [click here](https://github.com/Shlomi-Hazan/Chat-Bot-/blob/main/README.md#how-to-run-chatbot-on-local-lan-multiple-computers-)
 
 ---
 ## * This next section is a short guide for Part Two of the project ->  
